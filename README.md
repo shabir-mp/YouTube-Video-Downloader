@@ -28,8 +28,8 @@ This is a simple Python script for downloading YouTube videos using pytube and t
 ## Release History
 | Version | Additional Features | Note |
 | :------: | :------: | :------: |
-| v.1.1.0 | Resolution option to download videos; Status feature; Terms and conditions check feature; A neat and organized appearance according to the standard appearance of the operating system.| Pre-Release |
-| v.1.0.0 | Download the highest resolution video available for a given YouTube URL, Save the download history in a file named history.yt., Display the download history with options to go back to the home screen.| Latest |
+| v.2.0.0 | Resolution option to download videos; Status feature; Terms and conditions check feature; A neat and organized appearance according to the standard appearance of the operating system.| Latest |
+| v.1.0.0 | Download the highest resolution video available for a given YouTube URL, Save the download history in a file named history.yt., Display the download history with options to go back to the home screen.| Previous |
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
